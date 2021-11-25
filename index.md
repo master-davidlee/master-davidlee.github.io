@@ -14,8 +14,7 @@
     
 <center><font face="Times New Roman" size=10>Happy Birth Day 🎊🎊🎊 </font></center>    
     
-    
-![picture](https://github.com/master-davidlee/master-davidlee.github.io/blob/main/pc.jpg)    
+      
     
     
 <center><font face="微软雅黑" size=3>谢谢你的陪伴和支持 愿你快乐不只是生日</font></center>    
