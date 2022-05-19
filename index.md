@@ -17,8 +17,9 @@
       
     
     
-<center><font face="微软雅黑" size=5>谢谢你的陪伴和支持 愿你快乐不只是生日</font></center>    
+<center><font face="微软雅黑" size=5>你开心 我开心 我们迟早心连心</font></center>    
+
     
         
-<iframe src="//player.bilibili.com/player.html?aid=78258226&bvid=BV11J411i742&cid=133905422&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=298356543&bvid=BV1qF411M7wY&cid=578056560&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
     
